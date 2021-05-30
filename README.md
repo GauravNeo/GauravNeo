@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GauravNeo
-- 👀 I’m interested in Test Automation and MERN stack
-- 🌱 I’m currently learning ...HTML5/CSS3/JS
+- 👀 I’m interested in Test Automation 
+- 🌱 I’m currently learning ..JS
 - 💞 I’m looking to collaborate on ...similar stuff
 - 📫 How to reach me ... LinkedIn : https://www.linkedin.com/in/gauravnandab2k8/
 
